@@ -27,7 +27,7 @@ pwd -> mostra o caminho atual
 
 essa linha existe na batata... grande batata
 
-
+atualizado no github
 
 
 
