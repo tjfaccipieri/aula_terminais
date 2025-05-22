@@ -25,9 +25,7 @@ cp -> copiar arquivos ou diretórios -> copy
 pwd -> mostra o caminho atual
 
 
-
-123
-
+essa linha existe na batata... grande batata
 
 
 
