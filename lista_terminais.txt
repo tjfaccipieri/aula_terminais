@@ -24,7 +24,9 @@ mv -> mover arquivos/diretórios -> move
 cp -> copiar arquivos ou diretórios -> copy
 pwd -> mostra o caminho atual
 
-.
+
+
+123
 
 
 
