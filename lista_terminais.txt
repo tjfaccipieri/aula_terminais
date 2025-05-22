@@ -1,0 +1,33 @@
+Terminal:
+ambiente de interação com o computador
+lugar pra digitar comandos
+telinha preta
+
+-- lista de terminais
+powershell (Windows, Linux, mac)
+cmd - prompt de comando (apenas Windows)
+bash (Linux, mac)
+zsh (Linux, mac)
+sh (Linux, mac)
+git bash (Windows)
+fish (Linux, mac)
+wsl (Windows fingindo ser Linux)
+termux (android)
+alacritty (Windows, Linux, mac)
+iterm2 (mac)
+
+comandos:
+cd -> troca entre diretórios -> change directory
+ls / dir -> listar conteúdo do diretório -> list
+md / mkdir -> cria um diretório -> make directory
+mv -> mover arquivos/diretórios -> move
+cp -> copiar arquivos ou diretórios -> copy
+pwd -> mostra o caminho atual
+
+
+
+
+
+
+
+
